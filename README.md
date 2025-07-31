@@ -1,4 +1,4 @@
-# Practice Saves for the FINAL FANTASY XIII Speedrun
+# Practice Saves for the FINAL FANTASY XIII Any% (PC) Speedrun
 
 ### Whenever possible, these saves are created without the preceeding menu or shop already completed.
 ### These saves were created by CoreySG9.
