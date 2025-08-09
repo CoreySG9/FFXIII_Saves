@@ -115,7 +115,7 @@ You will not be missing or have extra crystarium, equipment and other relevant i
 	* Save 76: Tiamat Eliminator
 	* Save 77: Barthandelus III/Orphan I/II
 	
-	## Additional Resources
+## Additional Resources
 	
 [FINAL FANTASY XIII Speedrunning Discord](https://discord.gg/0ysmzR388AbDVPtS)
 
