@@ -4,19 +4,24 @@
 
 Lost your old practice saves and need new ones? Want to get into FINAL FANTASY XIII speedrunning but don't know where to start? Here's some save files.
 
-Whenever possible, these saves are created without the preceeding menu or shop already completed.
-
 ## Install
 
 First disable `cloud saves`.
+
 Download all saves (if all saves are needed) by clicking the 'Code' button, followed by 'Download Zip'. Extract the contents of 'FFXIII_Saves-main' into `X:\Users\USERNAME\AppData\Local\SquareEnix\FinalFantasyXIII\save`.
+
 Be sure to delete the '.gitattributes', 'README.md' files and the 'source' folder, as these files are not needed.
 
 ## Saves
 
 Each save file has a custom description in-game so you can instantly tell what each save file is for.
+
+Whenever possible, these saves are created without the preceeding menu or shop already completed.
+
 Nearly all saves have one extra of each shroud (not including Ethersols).
+
 These saves follow the current route based on MMM96's [notes](https://docs.google.com/spreadsheets/d/1DNol5xpiRfeH9YhtNPCwLxB1K3kuH2izsK6W9SuSLAk/edit?gid=0#gid=0) (as of 31/07/2025).
+
 You will not be missing or have extra crystarium, equipment and other relevant items (based on the current route).
 
 1. Chapter 1:
@@ -111,5 +116,7 @@ You will not be missing or have extra crystarium, equipment and other relevant i
 	* Save 77: Barthandelus III/Orphan I/II
 	
 	## Additional Resources
-	- [FINAL FANTASY XIII Speedrunning Discord](https://discord.gg/0ysmzR388AbDVPtS)
-	- [FINAL FANTASY XIII Any% PC Battles](https://youtu.be/l3AUw9O3q7Q)
+	
+[FINAL FANTASY XIII Speedrunning Discord](https://discord.gg/0ysmzR388AbDVPtS)
+
+[FINAL FANTASY XIII Any% PC Battles](https://youtu.be/l3AUw9O3q7Q)
