@@ -8,9 +8,9 @@ Lost your old practice saves and need new ones? Want to get into FINAL FANTASY X
 
 First disable `cloud saves`.
 
-Download all saves (if all saves are needed) by clicking the 'Code' button, followed by 'Download Zip'. Extract the contents of 'FFXIII_Saves-main' into `X:\Users\USERNAME\AppData\Local\SquareEnix\FinalFantasyXIII\save`.
+Download all saves (if all saves are needed) by clicking the `Code` button, followed by `Download Zip`. Extract the contents of `FFXIII_Saves-main` into `X:\Users\USERNAME\AppData\Local\SquareEnix\FinalFantasyXIII\save`.
 
-Be sure to delete the '.gitattributes', 'README.md' files and the 'source' folder, as these files are not needed.
+Be sure to delete the `.gitattributes`, `README.md` files and the `source` folder, as these files are not needed.
 
 ## Saves
 
