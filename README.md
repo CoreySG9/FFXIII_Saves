@@ -1,15 +1,23 @@
-# Practice Saves for the FINAL FANTASY XIII Any% (PC) Speedrun
+# <img src="source/icon.png" width="45" align="left"> FINAL FANTASY XIII Any% (PC) Saves
 
-### Whenever possible, these saves are created without the preceeding menu or shop already completed.
-### These saves were created by CoreySG9.
-### 
+> Saves for FINAL FANTASY XIII aimed to help players practice the Any% (PC) speedrun.
 
-#### In order to use these saves, first disable `cloud saves`, then copy these files into `X:\Users\USERNAME\AppData\Local\SquareEnix\FinalFantasyXIII\save`
+Lost your old practice saves and need new ones? Want to get into FINAL FANTASY XIII speedrunning but don't know where to start? Here's some save files.
 
-#### Nearly all saves have one extra of each shroud (not including Ethersols).
-#### These saves follow the current route based on MMM96's notes. You will not be missing or have extra of any CP, equipment and other relevant items.
+Whenever possible, these saves are created without the preceeding menu or shop already completed.
 
-##### Saves:
+## Install
+
+First disable `cloud saves`.
+Download all saves (if all saves are needed) by clicking the 'Code' button, followed by 'Download Zip'. Extract the contents of 'FFXIII_Saves-main' into `X:\Users\USERNAME\AppData\Local\SquareEnix\FinalFantasyXIII\save`.
+Be sure to delete the '.gitattributes', 'README.md' files and the 'source' folder, as these files are not needed.
+
+## Saves
+
+Each save file has a custom description in-game so you can instantly tell what each save file is for.
+Nearly all saves have one extra of each shroud (not including Ethersols).
+These saves follow the current route based on MMM96's [notes](https://docs.google.com/spreadsheets/d/1DNol5xpiRfeH9YhtNPCwLxB1K3kuH2izsK6W9SuSLAk/edit?gid=0#gid=0) (as of 31/07/2025).
+You will not be missing or have extra crystarium, equipment and other relevant items (based on the current route).
 
 1. Chapter 1:
     * Save 1: Pantheron & PSICOM Warden
@@ -46,7 +54,7 @@
     * Save 29: End of Chapter Gauntlet
 5. Chapter 5:
     * Save 30: Beginning Cutscene
-    * Save 31: Silver Lobo x2/Crawlers x4/Feral Behemoth/Crawler x10
+    * Save 31: Silver Lobo x2/Crawler x4/Feral Behemoth/Crawler x10
 	* Save 32: Feral Behemoth (Lightning)
 	* Save 33: Corps Marksman x2 & Milvus Velocycle/Aster Protoflorian
 6. Chapter 6:
@@ -78,7 +86,7 @@
 11. Chapter 11:
 	* Save 55: Beginning Cutscene
 	* Save 56: Behemoth King & Megistotherian
-	* Save 57: Rust Puddings x2
+	* Save 57: Rust Pudding x2
 	* Save 58: Hecatoncheir
 	* Save 59: Gelatitan
 	* Save 60: Ambling Bellows & Cryptos x2
@@ -102,3 +110,6 @@
 	* Save 76: Tiamat Eliminator
 	* Save 77: Barthandelus III/Orphan I/II
 	
+	## Additional Resources
+	- [FINAL FANTASY XIII Speedrunning Discord](https://discord.gg/0ysmzR388AbDVPtS)
+	- [FINAL FANTASY XIII Any% PC Battles](https://youtu.be/l3AUw9O3q7Q)
